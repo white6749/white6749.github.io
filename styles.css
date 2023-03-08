@@ -1,0 +1,41 @@
+h1{
+  font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 10px 0;
+    color: #00539f;
+    font-size: 30px;
+    text-align:center;
+  }
+  h2,h3,h4,h5,h6{
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 22px;
+       margin: 10 px 20 px 30 px 40 px;
+       color: rgb(96, 30, 250);
+       text-align:left;
+       line-height: 2;
+       letter-spacing: 1px;
+       width: 1150px;
+       height: 20px;
+  }
+  nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: right;
+    padding: 50px;
+    background-color: #dbd9d5b4;
+    color: #fff;
+  }
+  html {
+    background-color: #d2e5f7;
+    width: 1150px;
+    height: 500px;
+  }
+  body {
+    width: 1150px;
+    height: 500px;
+    margin: 20px 20px;
+    background-color: #dbd9d5b4;
+    padding: 20px 40px 20px 40px;
+    border: 40px solid black;
+    }
