@@ -38,3 +38,20 @@ h1{
     padding: 20px 40px 20px 40px;
     border: 40px solid black;
   }
+  
+a:link {
+  color: #692bf8;
+}
+
+a:visited {
+  color: #692bf8;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+
+a:active {
+  color: #692bf8;
+}

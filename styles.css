@@ -16,6 +16,7 @@ h1{
        letter-spacing: 1px;
        width: 1150px;
        height: 20px;
+       white-space: pre;
   }
   nav{
     font-family: Arial, Helvetica, sans-serif;
